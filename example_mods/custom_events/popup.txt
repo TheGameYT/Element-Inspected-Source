@@ -1,0 +1,5 @@
+makes a regular popup that, while open, doesn't let you pause
+closes when clicked to make the mechanic easier,
+but the code is right there if you wanna change that
+value 1 is the path to the image
+value 2 is the window name

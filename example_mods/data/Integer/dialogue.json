@@ -1,0 +1,276 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "narrarator",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Boyfriend and Girlfriend are walking down the street and they stop at a coffee/cafe shop to go get coffee."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrarator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "As they walk in they go to the back of the line to order some coffee."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrarator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The people in front of them are laughing and joking around."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrarator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "One of them seems to spawn a mouse cursor in thin air."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " Right, So I need to move a chair."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "GF",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeah?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What if I just-\r\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrarator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then the cursor goes to one of the nearest tables and moves a chair."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay. but like what If I just do this then-\r\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrarator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The other one seems to pull out a computer.\\nThen the chair teleports back."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yaknow I can move it back, just by coding!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aww man-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Come on lets just get some coffee alright? "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Today Is gonna be so much fun ^w^"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrarator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend is tempted to get their attention but he stays quiet."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay we got our coffee?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wha-\r\n"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just kidding!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrarator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "They both start laughing as they make their way to the exit of the cafe."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrarator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend sees that they are about to leave then finally goes to talk to them."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Huh? Oh, Hi there!  "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, Hello!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Beep Bo Skeep do?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You want to rap battle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "With both of us?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Seems kinda unfair dont ya think?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrarator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend Grabs his microphone and throws it up in the air. he catches it then throws a peace sign."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Ay!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh alright then!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "Lets do it!"
+		}
+	]
+}

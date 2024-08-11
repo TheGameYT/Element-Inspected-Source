@@ -1,0 +1,196 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Scroll Speed",
+						"2.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Goodbye Hud",
+						"0",
+						"0.3"
+					]
+				]
+			],
+			[
+				22666.6666666667,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"2"
+					],
+					[
+						"Cam Zoom Tween",
+						"0.8",
+						"0.2"
+					]
+				]
+			],
+			[
+				23000,
+				[
+					[
+						"Cam Zoom Tween",
+						"1",
+						"0.2"
+					],
+					[
+						"ready",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23333.3333333333,
+				[
+					[
+						"Cam Zoom Tween",
+						"1.5",
+						"0.2"
+					],
+					[
+						"set",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23750,
+				[
+					[
+						"Cam Zoom Tween",
+						"2",
+						"0.2"
+					],
+					[
+						"go",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.7",
+						"0.9"
+					]
+				]
+			],
+			[
+				24083.3333333333,
+				[
+					[
+						"Goodbye Hud",
+						"100",
+						"1"
+					]
+				]
+			],
+			[
+				45250,
+				[
+					[
+						"noteskinchange",
+						"PIXELNOTE_assets",
+						""
+					],
+					[
+						"change_stage",
+						"PixelCafe",
+						""
+					],
+					[
+						"Flash Cam White",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				45333.3333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-pixel"
+					]
+				]
+			],
+			[
+				66416.6666666667,
+				[
+					[
+						"noteskinchange",
+						"Note_assets",
+						"noteSplashes"
+					]
+				]
+			],
+			[
+				66583.3333333334,
+				[
+					[
+						"change_stage",
+						"CafeSeperated",
+						""
+					],
+					[
+						"Flash Cam White",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"dad"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					],
+					[
+						"Change Character",
+						"gf",
+						"pico"
+					]
+				]
+			],
+			[
+				77333.3333333333,
+				[
+					[
+						"Set Text",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

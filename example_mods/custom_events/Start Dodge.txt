@@ -1,0 +1,5 @@
+Value 1 = how much damage it should do
+(player starts at 1, max is 2)
+
+Value 2 = how long you have to dodge
+(in beats)

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fnf_element_logo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fnf_element_bumbingEdit0000" x="0" y="0" width="726" height="333" frameX="-68" frameY="-29" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0001" x="0" y="0" width="726" height="333" frameX="-68" frameY="-29" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0002" x="736" y="0" width="684" height="289" frameX="-89" frameY="-51" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0003" x="736" y="0" width="684" height="289" frameX="-89" frameY="-51" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0004" x="1430" y="0" width="800" height="391" frameX="-31" frameY="0" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0005" x="1430" y="0" width="800" height="391" frameX="-31" frameY="0" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0006" x="0" y="401" width="749" height="355" frameX="-57" frameY="-18" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0007" x="0" y="401" width="749" height="355" frameX="-57" frameY="-18" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0008" x="759" y="401" width="755" height="358" frameX="-54" frameY="-17" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0009" x="759" y="401" width="755" height="358" frameX="-54" frameY="-17" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0010" x="759" y="401" width="755" height="358" frameX="-54" frameY="-17" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0011" x="759" y="401" width="755" height="358" frameX="-54" frameY="-17" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0012" x="759" y="401" width="755" height="358" frameX="-54" frameY="-17" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0013" x="759" y="401" width="755" height="358" frameX="-54" frameY="-17" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0014" x="0" y="0" width="726" height="333" frameX="-68" frameY="-29" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0015" x="0" y="0" width="726" height="333" frameX="-68" frameY="-29" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0016" x="736" y="0" width="684" height="289" frameX="-89" frameY="-51" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0017" x="736" y="0" width="684" height="289" frameX="-89" frameY="-51" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0018" x="1430" y="0" width="800" height="391" frameX="-31" frameY="0" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0019" x="1430" y="0" width="800" height="391" frameX="-31" frameY="0" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0020" x="1524" y="401" width="802" height="355" frameX="-4" frameY="-18" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0021" x="0" y="769" width="760" height="355" frameX="-57" frameY="-18" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0022" x="770" y="769" width="767" height="358" frameX="-54" frameY="-17" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0023" x="1547" y="769" width="755" height="380" frameX="-54" frameY="-6" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0024" x="0" y="1159" width="824" height="358" frameX="-20" frameY="-17" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0025" x="0" y="1159" width="824" height="358" frameX="-20" frameY="-17" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0026" x="759" y="401" width="755" height="358" frameX="-54" frameY="-17" frameWidth="864" frameHeight="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0027" x="834" y="1159" width="864" height="358" frameX="0" frameY="-17" frameWidth="864" frameHeight="391"/>
+</TextureAtlas>

@@ -1,0 +1,5 @@
+Displays up to 3 lines of lyrics with each one getting moved and faded
+put this in the custom_events folder and make a .txt file with the same name
+
+value 1: the text
+value 2: hex code

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "blahaj idle"
+		},
+		{
+			"offsets": [
+				210,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "blahaj left"
+		},
+		{
+			"offsets": [
+				30,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "blahaj down"
+		},
+		{
+			"offsets": [
+				-90,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "blahaj up"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "blahaj right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blahaj",
+	"position": [
+		0,
+		380
+	],
+	"healthicon": "blahaj",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		133,
+		145
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5.00000000000001,
+	"scale": 1.2
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				340,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Jay Idle"
+		},
+		{
+			"offsets": [
+				321,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Jay Left"
+		},
+		{
+			"offsets": [
+				330,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Jay Down"
+		},
+		{
+			"offsets": [
+				334,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Jay Up"
+		},
+		{
+			"offsets": [
+				350,
+				207
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Jay Right"
+		},
+		{
+			"offsets": [
+				340,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "PixelTrans",
+			"loop": false,
+			"name": "Jay PixelTrans"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jay",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jay",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		138,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

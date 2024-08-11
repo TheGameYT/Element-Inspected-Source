@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fnf_elemntal_logoG.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fnf_element_bumbingEdit0000" x="0" y="0" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0001" x="914" y="0" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0002" x="1828" y="0" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0003" x="2742" y="0" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0004" x="0" y="391" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0005" x="914" y="391" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0006" x="1828" y="391" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0007" x="2742" y="391" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0008" x="0" y="782" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0009" x="914" y="782" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0010" x="1828" y="782" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0011" x="2742" y="782" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0012" x="0" y="1173" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0013" x="914" y="1173" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0014" x="1828" y="1173" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0015" x="2742" y="1173" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0016" x="0" y="1564" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0017" x="914" y="1564" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0018" x="1828" y="1564" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0019" x="2742" y="1564" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0020" x="0" y="1955" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0021" x="914" y="1955" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0022" x="1828" y="1955" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0023" x="2742" y="1955" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0024" x="0" y="2346" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0025" x="914" y="2346" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0026" x="1828" y="2346" width="914" height="391"/>
+	<SubTexture name="fnf_element_bumbingEdit0027" x="2742" y="2346" width="914" height="391"/>
+</TextureAtlas>

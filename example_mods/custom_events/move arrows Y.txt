@@ -1,0 +1,2 @@
+Value 1 is the target position
+value 2 is the duration

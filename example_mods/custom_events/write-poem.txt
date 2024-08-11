@@ -1,0 +1,9 @@
+makes a pop up with
+clickable words
+(choose the right one)
+
+value1 = specific word
+(blank = random)
+
+value2 = custom time
+(blank = 10 sec)

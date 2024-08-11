@@ -1,0 +1,41 @@
+{
+	"storyName": "A Nice day to sing with a friend",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Integer",
+			"Jay",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"NULLstalgia",
+			"Game",
+			[
+				100,
+				193,
+				120
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

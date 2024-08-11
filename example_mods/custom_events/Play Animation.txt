@@ -1,0 +1,2 @@
+Put in Value 1 Either 'bgnormal' for The Regualar Flamesday Stage
+or put value one as "bg1" for the broken version of Flamesday Stage
